@@ -1,1 +1,1 @@
-"hola mundo"
+"Hola, #{ARGV.first}!"
